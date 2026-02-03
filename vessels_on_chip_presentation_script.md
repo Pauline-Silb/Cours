@@ -84,12 +84,6 @@ The team at Helmholtz Munich has developed iPSC-derived vessels that allow patie
 **2. Pharmacological testing**
 We can perfuse whole blood to study thrombosis—blood clotting. We can test the efficacy of chemotherapies or predict the vascular toxicity of new drugs. The Wyss Institute has even connected 10 organs-on-chip together to reproduce the systemic pharmacokinetics of the human body—how drugs are processed throughout multiple organs.
 
-**3. Angiogenesis studies**
-We can create a gradient of VEGF—vascular endothelial growth factor—and observe in real-time as cells migrate and form new capillaries. This is critical for understanding how tumors become vascularized and develop blood supply.
-
-**4. Tissue barrier modeling**
-For example, the blood-brain barrier. We co-culture brain endothelial cells with astrocytes. This allows us to test which drugs can cross the barrier to treat Alzheimer's or Parkinson's disease. The Wyss Institute's lung-on-chip even integrates mechanical stretching to mimic breathing."
-
 ---
 
 ## [5:15-6:30] ALTERNATIVES COMPARISON (1 minute 15 seconds)
